@@ -1,0 +1,263 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\main.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\pff.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\spi_pic18.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\wave_file.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\pwm_audio.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\sd_mmc.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\button.p1
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.cof
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.hex
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.sym
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.map
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.hxl
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File012]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\startup.lst
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File013]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\startup.rlf
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File014]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\doprnt.p1
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File015]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\doprnt.pre
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File016]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.obj
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File017]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.lst
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File018]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.rlf
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=
+[File019]
+Location=C:\Users\Smit\Desktop\src_no_lcd\output\PIC_WAV_Player.sdb
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={507D93FD-16F1-4270-980F-0C7C0207E6D3}
+LanguageToolID={0F51667C-2BAF-4EF8-A2C9-AB83788A793D}
+LanguageToolLocation=C:\Program Files (x86)\HI-TECH Software\PICC-18\9.80\bin\picc18.exe
+PPAD=$(BINDIR)|./output||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|pff.c|spi_pic18.c|wave_file.c|pwm_audio.c|sd_mmc.c|button.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=C6=31 DB=0 DC=9 DF=0 DD=1 C2=1 C3=0 DE=1 D7=1 11E=0 121=0 122=0 123=0 124=0 125=0 11F=94 C9=1 
+TraceCmdString=
+DebugOptions=

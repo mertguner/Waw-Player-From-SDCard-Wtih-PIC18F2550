@@ -1,0 +1,470 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ACMD41::(0xC0+41)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	14;"	d	line:14	file:
+AM_ARC::0x20	C:\Users\Smit\Desktop\src_no_lcd\pff.h	172;"	d	line:172
+AM_DIR::0x10	C:\Users\Smit\Desktop\src_no_lcd\pff.h	171;"	d	line:171
+AM_HID::0x02	C:\Users\Smit\Desktop\src_no_lcd\pff.h	167;"	d	line:167
+AM_LFN::0x0F	C:\Users\Smit\Desktop\src_no_lcd\pff.h	170;"	d	line:170
+AM_MASK::0x3F	C:\Users\Smit\Desktop\src_no_lcd\pff.h	173;"	d	line:173
+AM_RDO::0x01	C:\Users\Smit\Desktop\src_no_lcd\pff.h	166;"	d	line:166
+AM_SYS::0x04	C:\Users\Smit\Desktop\src_no_lcd\pff.h	168;"	d	line:168
+AM_VOL::0x08	C:\Users\Smit\Desktop\src_no_lcd\pff.h	169;"	d	line:169
+BPB_BkBootSec::50	C:\Users\Smit\Desktop\src_no_lcd\pff.c	298;"	d	line:298	file:
+BPB_BytsPerSec::11	C:\Users\Smit\Desktop\src_no_lcd\pff.c	273;"	d	line:273	file:
+BPB_ExtFlags::40	C:\Users\Smit\Desktop\src_no_lcd\pff.c	294;"	d	line:294	file:
+BPB_FATSz16::22	C:\Users\Smit\Desktop\src_no_lcd\pff.c	280;"	d	line:280	file:
+BPB_FATSz32::36	C:\Users\Smit\Desktop\src_no_lcd\pff.c	293;"	d	line:293	file:
+BPB_FSInfo::48	C:\Users\Smit\Desktop\src_no_lcd\pff.c	297;"	d	line:297	file:
+BPB_FSVer::42	C:\Users\Smit\Desktop\src_no_lcd\pff.c	295;"	d	line:295	file:
+BPB_HiddSec::28	C:\Users\Smit\Desktop\src_no_lcd\pff.c	283;"	d	line:283	file:
+BPB_Media::21	C:\Users\Smit\Desktop\src_no_lcd\pff.c	279;"	d	line:279	file:
+BPB_NumFATs::16	C:\Users\Smit\Desktop\src_no_lcd\pff.c	276;"	d	line:276	file:
+BPB_NumHeads::26	C:\Users\Smit\Desktop\src_no_lcd\pff.c	282;"	d	line:282	file:
+BPB_RootClus::44	C:\Users\Smit\Desktop\src_no_lcd\pff.c	296;"	d	line:296	file:
+BPB_RootEntCnt::17	C:\Users\Smit\Desktop\src_no_lcd\pff.c	277;"	d	line:277	file:
+BPB_RsvdSecCnt::14	C:\Users\Smit\Desktop\src_no_lcd\pff.c	275;"	d	line:275	file:
+BPB_SecPerClus::13	C:\Users\Smit\Desktop\src_no_lcd\pff.c	274;"	d	line:274	file:
+BPB_SecPerTrk::24	C:\Users\Smit\Desktop\src_no_lcd\pff.c	281;"	d	line:281	file:
+BPB_TotSec16::19	C:\Users\Smit\Desktop\src_no_lcd\pff.c	278;"	d	line:278	file:
+BPB_TotSec32::32	C:\Users\Smit\Desktop\src_no_lcd\pff.c	284;"	d	line:284	file:
+BS_55AA::510	C:\Users\Smit\Desktop\src_no_lcd\pff.c	285;"	d	line:285	file:
+BS_BootSig32::66	C:\Users\Smit\Desktop\src_no_lcd\pff.c	300;"	d	line:300	file:
+BS_BootSig::38	C:\Users\Smit\Desktop\src_no_lcd\pff.c	288;"	d	line:288	file:
+BS_DrvNum32::64	C:\Users\Smit\Desktop\src_no_lcd\pff.c	299;"	d	line:299	file:
+BS_DrvNum::36	C:\Users\Smit\Desktop\src_no_lcd\pff.c	287;"	d	line:287	file:
+BS_FilSysType32::82	C:\Users\Smit\Desktop\src_no_lcd\pff.c	303;"	d	line:303	file:
+BS_FilSysType::54	C:\Users\Smit\Desktop\src_no_lcd\pff.c	291;"	d	line:291	file:
+BS_OEMName::3	C:\Users\Smit\Desktop\src_no_lcd\pff.c	272;"	d	line:272	file:
+BS_VolID32::67	C:\Users\Smit\Desktop\src_no_lcd\pff.c	301;"	d	line:301	file:
+BS_VolID::39	C:\Users\Smit\Desktop\src_no_lcd\pff.c	289;"	d	line:289	file:
+BS_VolLab32::71	C:\Users\Smit\Desktop\src_no_lcd\pff.c	302;"	d	line:302	file:
+BS_VolLab::43	C:\Users\Smit\Desktop\src_no_lcd\pff.c	290;"	d	line:290	file:
+BS_jmpBoot::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	271;"	d	line:271	file:
+BYTE	C:\Users\Smit\Desktop\src_no_lcd\integer.h	22;"	t	line:22
+BitsPerSample	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	30;"	v	line:30
+Buff	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	29;"	v	line:29
+Buton1	C:\Users\Smit\Desktop\src_no_lcd\button.c	5;"	f	line:5	signature:(void)
+Buton1	C:\Users\Smit\Desktop\src_no_lcd\button.h	16;"	p	line:16	signature:(void)
+Buton2	C:\Users\Smit\Desktop\src_no_lcd\button.c	23;"	f	line:23	signature:(void)
+Buton2	C:\Users\Smit\Desktop\src_no_lcd\button.h	17;"	p	line:17	signature:(void)
+Buton3	C:\Users\Smit\Desktop\src_no_lcd\button.c	41;"	f	line:41	signature:(void)
+Buton3	C:\Users\Smit\Desktop\src_no_lcd\button.h	18;"	p	line:18	signature:(void)
+Buton4	C:\Users\Smit\Desktop\src_no_lcd\button.c	59;"	f	line:59	signature:(void)
+Buton4	C:\Users\Smit\Desktop\src_no_lcd\button.h	19;"	p	line:19	signature:(void)
+Buton5	C:\Users\Smit\Desktop\src_no_lcd\button.c	77;"	f	line:77	signature:(void)
+Buton5	C:\Users\Smit\Desktop\src_no_lcd\button.h	20;"	p	line:20	signature:(void)
+Buton6	C:\Users\Smit\Desktop\src_no_lcd\button.c	95;"	f	line:95	signature:(void)
+Buton6	C:\Users\Smit\Desktop\src_no_lcd\button.h	21;"	p	line:21	signature:(void)
+Buton7	C:\Users\Smit\Desktop\src_no_lcd\button.c	113;"	f	line:113	signature:(void)
+Buton7	C:\Users\Smit\Desktop\src_no_lcd\button.h	22;"	p	line:22	signature:(void)
+Buton8	C:\Users\Smit\Desktop\src_no_lcd\button.c	131;"	f	line:131	signature:(void)
+Buton8	C:\Users\Smit\Desktop\src_no_lcd\button.h	23;"	p	line:23	signature:(void)
+CHAR	C:\Users\Smit\Desktop\src_no_lcd\integer.h	20;"	t	line:20
+CLUST::DWORD	C:\Users\Smit\Desktop\src_no_lcd\pff.h	68;"	d	line:68
+CLUST::WORD	C:\Users\Smit\Desktop\src_no_lcd\pff.h	70;"	d	line:70
+CMD0::(0x40+0)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	12;"	d	line:12	file:
+CMD12::(0x40+12)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	16;"	d	line:16	file:
+CMD16::(0x40+16)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	17;"	d	line:17	file:
+CMD17::(0x40+17)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	18;"	d	line:18	file:
+CMD1::(0x40+1)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	13;"	d	line:13	file:
+CMD24::(0x40+24)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	19;"	d	line:19	file:
+CMD55::(0x40+55)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	20;"	d	line:20	file:
+CMD58::(0x40+58)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	21;"	d	line:21	file:
+CMD8::(0x40+8)	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	15;"	d	line:15	file:
+CT_BLOCK::0x08	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	38;"	d	line:38
+CT_MMC::0x01	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	34;"	d	line:34
+CT_SD1::0x02	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	35;"	d	line:35
+CT_SD2::0x04	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	36;"	d	line:36
+CT_SDC::(CT_SD1|CT_SD2)	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	37;"	d	line:37
+CardType	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	29;"	v	line:29
+ChunkID	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	39;"	l	line:39
+DESELECT::LATCbits.LATC6=1	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	16;"	d	line:16
+DIR	C:\Users\Smit\Desktop\src_no_lcd\pff.h	103;"	t	line:103
+DIR_Attr::11	C:\Users\Smit\Desktop\src_no_lcd\pff.c	308;"	d	line:308	file:
+DIR_CrtDate::16	C:\Users\Smit\Desktop\src_no_lcd\pff.c	311;"	d	line:311	file:
+DIR_CrtTime::14	C:\Users\Smit\Desktop\src_no_lcd\pff.c	310;"	d	line:310	file:
+DIR_FileSize::28	C:\Users\Smit\Desktop\src_no_lcd\pff.c	316;"	d	line:316	file:
+DIR_FstClusHI::20	C:\Users\Smit\Desktop\src_no_lcd\pff.c	312;"	d	line:312	file:
+DIR_FstClusLO::26	C:\Users\Smit\Desktop\src_no_lcd\pff.c	315;"	d	line:315	file:
+DIR_NTres::12	C:\Users\Smit\Desktop\src_no_lcd\pff.c	309;"	d	line:309	file:
+DIR_Name::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	307;"	d	line:307	file:
+DIR_WrtDate::24	C:\Users\Smit\Desktop\src_no_lcd\pff.c	314;"	d	line:314	file:
+DIR_WrtTime::22	C:\Users\Smit\Desktop\src_no_lcd\pff.c	313;"	d	line:313	file:
+DRESULT	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	20;"	t	line:20
+DSTATUS	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	11;"	t	line:11
+DWORD	C:\Users\Smit\Desktop\src_no_lcd\integer.h	33;"	t	line:33
+Dir	C:\Users\Smit\Desktop\src_no_lcd\main.c	33;"	v	line:33
+FATFS	C:\Users\Smit\Desktop\src_no_lcd\pff.h	91;"	t	line:91
+FA_OPENED::0x01	C:\Users\Smit\Desktop\src_no_lcd\pff.h	152;"	d	line:152
+FA_WPRT::0x02	C:\Users\Smit\Desktop\src_no_lcd\pff.h	153;"	d	line:153
+FA__WIP::0x40	C:\Users\Smit\Desktop\src_no_lcd\pff.h	154;"	d	line:154
+FCC::(c1,c2,c3,c4)(((DWORD)c4<<24)+	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	21;"	d	line:21	file:
+FILINFO	C:\Users\Smit\Desktop\src_no_lcd\pff.h	115;"	t	line:115
+FRESULT	C:\Users\Smit\Desktop\src_no_lcd\pff.h	130;"	t	line:130
+FR_DISK_ERR	C:\Users\Smit\Desktop\src_no_lcd\pff.h	123;"	e	line:123
+FR_NOT_ENABLED	C:\Users\Smit\Desktop\src_no_lcd\pff.h	128;"	e	line:128
+FR_NOT_OPENED	C:\Users\Smit\Desktop\src_no_lcd\pff.h	127;"	e	line:127
+FR_NOT_READY	C:\Users\Smit\Desktop\src_no_lcd\pff.h	124;"	e	line:124
+FR_NO_FILE	C:\Users\Smit\Desktop\src_no_lcd\pff.h	125;"	e	line:125
+FR_NO_FILESYSTEM	C:\Users\Smit\Desktop\src_no_lcd\pff.h	129;"	e	line:129
+FR_NO_PATH	C:\Users\Smit\Desktop\src_no_lcd\pff.h	126;"	e	line:126
+FR_OK	C:\Users\Smit\Desktop\src_no_lcd\pff.h	122;"	e	line:122
+FS_FAT12::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	159;"	d	line:159
+FS_FAT16::2	C:\Users\Smit\Desktop\src_no_lcd\pff.h	160;"	d	line:160
+FS_FAT32::3	C:\Users\Smit\Desktop\src_no_lcd\pff.h	161;"	d	line:161
+FatFs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	328;"	v	line:328	file:
+Fno	C:\Users\Smit\Desktop\src_no_lcd\main.c	34;"	v	line:34
+Fs	C:\Users\Smit\Desktop\src_no_lcd\main.c	32;"	v	line:32
+INT	C:\Users\Smit\Desktop\src_no_lcd\integer.h	16;"	t	line:16
+IsDBCS1::(c)(((BYTE)(c)>=_DF1S&&(BYTE)(	C:\Users\Smit\Desktop\src_no_lcd\pff.c	248;"	d	line:248	file:
+IsDBCS1::(c)((BYTE)(c)>=_DF1S&&(BYTE)(c	C:\Users\Smit\Desktop\src_no_lcd\pff.c	250;"	d	line:250	file:
+IsDBCS1::(c)0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	261;"	d	line:261	file:
+IsDBCS2::(c)(((BYTE)(c)>=_DS1S&&(BYTE)(	C:\Users\Smit\Desktop\src_no_lcd\pff.c	254;"	d	line:254	file:
+IsDBCS2::(c)(((BYTE)(c)>=_DS1S&&(BYTE)(	C:\Users\Smit\Desktop\src_no_lcd\pff.c	256;"	d	line:256	file:
+IsDBCS2::(c)0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	262;"	d	line:262	file:
+IsLower::(c)(((c)>='a')&&((c)<='z'))	C:\Users\Smit\Desktop\src_no_lcd\pff.c	243;"	d	line:243	file:
+IsUpper::(c)(((c)>='A')&&((c)<='Z'))	C:\Users\Smit\Desktop\src_no_lcd\pff.c	242;"	d	line:242	file:
+LD_CLUST::(dir)(((DWORD)LD_WORD(dir+DIR_	C:\Users\Smit\Desktop\src_no_lcd\pff.c	38;"	d	line:38	file:
+LD_CLUST::(dir)LD_WORD(dir+DIR_FstClusLO	C:\Users\Smit\Desktop\src_no_lcd\pff.c	40;"	d	line:40	file:
+LD_DWORD::(ptr)(DWORD)(((DWORD)*((BYTE*)	C:\Users\Smit\Desktop\src_no_lcd\pff.h	186;"	d	line:186
+LD_DWORD::(ptr)(DWORD)(*(DWORD*)(BYTE*)(	C:\Users\Smit\Desktop\src_no_lcd\pff.h	181;"	d	line:181
+LD_WORD::(ptr)(WORD)(((WORD)*((BYTE*)(p	C:\Users\Smit\Desktop\src_no_lcd\pff.h	185;"	d	line:185
+LD_WORD::(ptr)(WORD)(*(WORD*)(BYTE*)(pt	C:\Users\Smit\Desktop\src_no_lcd\pff.h	180;"	d	line:180
+LIST_chunk::FCC('L','I','S','T')	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	24;"	d	line:24	file:
+LONG	C:\Users\Smit\Desktop\src_no_lcd\integer.h	31;"	t	line:31
+MBR_Table::446	C:\Users\Smit\Desktop\src_no_lcd\pff.c	305;"	d	line:305	file:
+MMC_SEL::1	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	18;"	d	line:18
+Mod::PORTCbits.RC0	C:\Users\Smit\Desktop\src_no_lcd\button.h	14;"	d	line:14
+NumChannels	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	30;"	v	line:30
+READ_BUFF_SIZE::256	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	27;"	d	line:27	file:
+RES_ERROR	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	17;"	e	line:17
+RES_NOTRDY	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	18;"	e	line:18
+RES_OK	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	16;"	e	line:16
+RES_PARERR	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	19;"	e	line:19
+SELECT::LATCbits.LATC6=0	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	14;"	d	line:14
+SHORT	C:\Users\Smit\Desktop\src_no_lcd\integer.h	25;"	t	line:25
+SPI_FOSC_64::0b00000010	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	6;"	d	line:6
+SPI_FOSC_TMR2::0b00000011	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	7;"	d	line:7
+SSPENB::0b00100000	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	8;"	d	line:8
+SS_TRIS::TRISCbits.TRISC6=0	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	12;"	d	line:12
+STA_NODISK::0x02	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	31;"	d	line:31
+STA_NOINIT::0x01	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	30;"	d	line:30
+ST_DWORD::(ptr,val)*(BYTE*)(ptr)=(BYTE)(	C:\Users\Smit\Desktop\src_no_lcd\pff.h	188;"	d	line:188
+ST_DWORD::(ptr,val)*(DWORD*)(BYTE*)(ptr)	C:\Users\Smit\Desktop\src_no_lcd\pff.h	183;"	d	line:183
+ST_WORD::(ptr,val)*(BYTE*)(ptr)=(BYTE)(	C:\Users\Smit\Desktop\src_no_lcd\pff.h	187;"	d	line:187
+ST_WORD::(ptr,val)*(WORD*)(BYTE*)(ptr)=	C:\Users\Smit\Desktop\src_no_lcd\pff.h	182;"	d	line:182
+SamplingRate	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	39;"	l	line:39
+SwitchState1	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState2	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState3	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState4	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState5	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState6	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState7	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+SwitchState8	C:\Users\Smit\Desktop\src_no_lcd\button.h	3;"	v	line:3
+TMR1H_preload	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	20;"	v	line:20
+TMR1L_preload	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	20;"	v	line:20
+UCHAR	C:\Users\Smit\Desktop\src_no_lcd\integer.h	21;"	t	line:21
+UINT	C:\Users\Smit\Desktop\src_no_lcd\integer.h	17;"	t	line:17
+ULONG	C:\Users\Smit\Desktop\src_no_lcd\integer.h	32;"	t	line:32
+USHORT	C:\Users\Smit\Desktop\src_no_lcd\integer.h	26;"	t	line:26
+WAV_BUFFER_MASK::(WAV_BUFFER_SIZE-1)	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	17;"	d	line:17	file:
+WAV_BUFFER_SIZE::256	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	4;"	d	line:4
+WAV_L_BUFF	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	21;"	v	line:21
+WCHAR	C:\Users\Smit\Desktop\src_no_lcd\integer.h	28;"	t	line:28
+WORD	C:\Users\Smit\Desktop\src_no_lcd\integer.h	27;"	t	line:27
+_CODE_PAGE::857	C:\Users\Smit\Desktop\src_no_lcd\pff.h	41;"	d	line:41
+_DF1E::0x9F	C:\Users\Smit\Desktop\src_no_lcd\pff.c	49;"	d	line:49	file:
+_DF1E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	59;"	d	line:59	file:
+_DF1E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	67;"	d	line:67	file:
+_DF1E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	77;"	d	line:77	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	105;"	d	line:105	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	112;"	d	line:112	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	119;"	d	line:119	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	126;"	d	line:126	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	133;"	d	line:133	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	140;"	d	line:140	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	147;"	d	line:147	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	154;"	d	line:154	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	161;"	d	line:161	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	168;"	d	line:168	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	175;"	d	line:175	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	182;"	d	line:182	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	189;"	d	line:189	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	196;"	d	line:196	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	203;"	d	line:203	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	210;"	d	line:210	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	217;"	d	line:217	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	224;"	d	line:224	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	231;"	d	line:231	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	84;"	d	line:84	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	91;"	d	line:91	file:
+_DF1S::0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	98;"	d	line:98	file:
+_DF1S::0x81	C:\Users\Smit\Desktop\src_no_lcd\pff.c	48;"	d	line:48	file:
+_DF1S::0x81	C:\Users\Smit\Desktop\src_no_lcd\pff.c	58;"	d	line:58	file:
+_DF1S::0x81	C:\Users\Smit\Desktop\src_no_lcd\pff.c	66;"	d	line:66	file:
+_DF1S::0x81	C:\Users\Smit\Desktop\src_no_lcd\pff.c	76;"	d	line:76	file:
+_DF2E::0xFC	C:\Users\Smit\Desktop\src_no_lcd\pff.c	51;"	d	line:51	file:
+_DF2S::0xE0	C:\Users\Smit\Desktop\src_no_lcd\pff.c	50;"	d	line:50	file:
+_DISKIO	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	40;"	d	line:40
+_DS1E::0x5A	C:\Users\Smit\Desktop\src_no_lcd\pff.c	69;"	d	line:69	file:
+_DS1E::0x7E	C:\Users\Smit\Desktop\src_no_lcd\pff.c	53;"	d	line:53	file:
+_DS1E::0x7E	C:\Users\Smit\Desktop\src_no_lcd\pff.c	61;"	d	line:61	file:
+_DS1E::0x7E	C:\Users\Smit\Desktop\src_no_lcd\pff.c	79;"	d	line:79	file:
+_DS1S::0x40	C:\Users\Smit\Desktop\src_no_lcd\pff.c	52;"	d	line:52	file:
+_DS1S::0x40	C:\Users\Smit\Desktop\src_no_lcd\pff.c	60;"	d	line:60	file:
+_DS1S::0x40	C:\Users\Smit\Desktop\src_no_lcd\pff.c	78;"	d	line:78	file:
+_DS1S::0x41	C:\Users\Smit\Desktop\src_no_lcd\pff.c	68;"	d	line:68	file:
+_DS2E::0x7A	C:\Users\Smit\Desktop\src_no_lcd\pff.c	71;"	d	line:71	file:
+_DS2E::0xFC	C:\Users\Smit\Desktop\src_no_lcd\pff.c	55;"	d	line:55	file:
+_DS2E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	63;"	d	line:63	file:
+_DS2E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	81;"	d	line:81	file:
+_DS2S::0x61	C:\Users\Smit\Desktop\src_no_lcd\pff.c	70;"	d	line:70	file:
+_DS2S::0x80	C:\Users\Smit\Desktop\src_no_lcd\pff.c	54;"	d	line:54	file:
+_DS2S::0x80	C:\Users\Smit\Desktop\src_no_lcd\pff.c	62;"	d	line:62	file:
+_DS2S::0xA1	C:\Users\Smit\Desktop\src_no_lcd\pff.c	80;"	d	line:80	file:
+_DS3E::0xFE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	73;"	d	line:73	file:
+_DS3S::0x81	C:\Users\Smit\Desktop\src_no_lcd\pff.c	72;"	d	line:72	file:
+_EXCVT::{0x80,0x81,0x45,0x41,0x84,0x41	C:\Users\Smit\Desktop\src_no_lcd\pff.c	95;"	d	line:95	file:
+_EXCVT::{0x80,0x81,0x82,0x82,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	179;"	d	line:179	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	102;"	d	line:102	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	151;"	d	line:151	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	158;"	d	line:158	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	165;"	d	line:165	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	172;"	d	line:172	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	186;"	d	line:186	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	193;"	d	line:193	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	200;"	d	line:200	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	207;"	d	line:207	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	214;"	d	line:214	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	221;"	d	line:221	file:
+_EXCVT::{0x80,0x81,0x82,0x83,0x84,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	228;"	d	line:228	file:
+_EXCVT::{0x80,0x9A,0x90,0x41,0x8E,0x41	C:\Users\Smit\Desktop\src_no_lcd\pff.c	88;"	d	line:88	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	C:\Users\Smit\Desktop\src_no_lcd\pff.c	116;"	d	line:116	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	C:\Users\Smit\Desktop\src_no_lcd\pff.c	137;"	d	line:137	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xB7	C:\Users\Smit\Desktop\src_no_lcd\pff.c	144;"	d	line:144	file:
+_EXCVT::{0x80,0x9A,0x90,0xB6,0x8E,0xDE	C:\Users\Smit\Desktop\src_no_lcd\pff.c	123;"	d	line:123	file:
+_EXCVT::{0x80,0x9A,0x91,0xA0,0x8E,0x95	C:\Users\Smit\Desktop\src_no_lcd\pff.c	109;"	d	line:109	file:
+_EXCVT::{0x81,0x81,0x83,0x83,0x85,0x85	C:\Users\Smit\Desktop\src_no_lcd\pff.c	130;"	d	line:130	file:
+_FATFS	C:\Users\Smit\Desktop\src_no_lcd\pff.h	27;"	d	line:27
+_FS_FAT12::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	37;"	d	line:37
+_FS_FAT32::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	38;"	d	line:38
+_INTEGER	C:\Users\Smit\Desktop\src_no_lcd\integer.h	6;"	d	line:6
+_PWM_AUDIO	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	2;"	d	line:2
+_SPI_PIC18	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	2;"	d	line:2
+_USE_DIR::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	31;"	d	line:31
+_USE_LSEEK::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	33;"	d	line:33
+_USE_READ::1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	29;"	d	line:29
+_USE_WRITE::0	C:\Users\Smit\Desktop\src_no_lcd\pff.h	35;"	d	line:35
+_WAVE_FILE	C:\Users\Smit\Desktop\src_no_lcd\wave_file.h	2;"	d	line:2
+_WORD_ACCESS::0	C:\Users\Smit\Desktop\src_no_lcd\pff.h	49;"	d	line:49
+_WRITE_FUNC::0	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	9;"	d	line:9	file:
+_XTAL_FREQ::48000000	C:\Users\Smit\Desktop\src_no_lcd\main.c	12;"	d	line:12	file:
+a	C:\Users\Smit\Desktop\src_no_lcd\pff.c	534;"	l	line:534
+amplitude	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	88;"	l	line:88
+bc	C:\Users\Smit\Desktop\src_no_lcd\pff.c	358;"	l	line:358
+bc	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	203;"	l	line:203
+bc	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	252;"	l	line:252
+bcs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	989;"	l	line:989
+bsect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	742;"	l	line:742
+buf	C:\Users\Smit\Desktop\src_no_lcd\pff.c	359;"	l	line:359
+buf	C:\Users\Smit\Desktop\src_no_lcd\pff.c	741;"	l	line:741
+c	C:\Users\Smit\Desktop\src_no_lcd\pff.c	500;"	l	line:500
+c	C:\Users\Smit\Desktop\src_no_lcd\pff.c	534;"	l	line:534
+c	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+c	C:\Users\Smit\Desktop\src_no_lcd\pff.c	623;"	l	line:623
+check_fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	705;"	f	line:705	file:	signature:( BYTE *buf, DWORD sect )
+clst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	425;"	l	line:425
+clst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	453;"	l	line:453
+clst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	862;"	l	line:862
+clst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	919;"	l	line:919
+clst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	988;"	l	line:988
+clust	C:\Users\Smit\Desktop\src_no_lcd\pff.h	101;"	m	line:101
+clust2sect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	401;"	f	line:401	file:	signature:( CLUST clst )
+cmd	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	146;"	l	line:146
+create_name	C:\Users\Smit\Desktop\src_no_lcd\pff.c	568;"	f	line:568	file:	signature:( DIR *dj, const char **path )
+cs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	865;"	l	line:865
+cs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	922;"	l	line:922
+csize	C:\Users\Smit\Desktop\src_no_lcd\pff.h	79;"	m	line:79
+curr_clust	C:\Users\Smit\Desktop\src_no_lcd\pff.h	89;"	m	line:89
+cvt	C:\Users\Smit\Desktop\src_no_lcd\pff.c	564;"	v	line:564	file:
+d	C:\Users\Smit\Desktop\src_no_lcd\pff.c	334;"	l	line:334
+d	C:\Users\Smit\Desktop\src_no_lcd\pff.c	341;"	l	line:341
+d	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+data_chunk::FCC('d','a','t','a')	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	23;"	d	line:23	file:
+database	C:\Users\Smit\Desktop\src_no_lcd\pff.h	85;"	m	line:85
+delay	C:\Users\Smit\Desktop\src_no_lcd\main.c	107;"	f	line:107	signature:(void)
+delay	C:\Users\Smit\Desktop\src_no_lcd\main.c	36;"	p	line:36	file:	signature:(void)
+dir	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1045;"	l	line:1045
+dir	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1083;"	l	line:1083
+dir	C:\Users\Smit\Desktop\src_no_lcd\pff.c	825;"	l	line:825
+dir_find	C:\Users\Smit\Desktop\src_no_lcd\pff.c	494;"	f	line:494	file:	signature:( DIR *dj, BYTE *dir )
+dir_next	C:\Users\Smit\Desktop\src_no_lcd\pff.c	449;"	f	line:449	file:	signature:( DIR *dj )
+dir_read	C:\Users\Smit\Desktop\src_no_lcd\pff.c	528;"	f	line:528	file:	signature:( DIR *dj, BYTE *dir )
+dir_rewind	C:\Users\Smit\Desktop\src_no_lcd\pff.c	421;"	f	line:421	file:	signature:( DIR *dj )
+dirbase	C:\Users\Smit\Desktop\src_no_lcd\pff.h	84;"	m	line:84
+disable_audio::TRISC|=0b00000110	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	11;"	d	line:11
+disk_initialize	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	26;"	p	line:26	signature:(void)
+disk_initialize	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	144;"	f	line:144	signature:(void)
+disk_readp	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	27;"	p	line:27	signature:(BYTE*, DWORD, WORD, WORD)
+disk_readp	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	194;"	f	line:194	signature:( BYTE *buff, DWORD lba, WORD ofs, WORD cnt )
+disk_writep	C:\Users\Smit\Desktop\src_no_lcd\diskio.h	28;"	p	line:28	signature:(const BYTE*, DWORD)
+disk_writep	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	246;"	f	line:246	signature:( const BYTE *buff, DWORD sa )
+dj	C:\Users\Smit\Desktop\src_no_lcd\pff.c	824;"	l	line:824
+dr	C:\Users\Smit\Desktop\src_no_lcd\pff.c	861;"	l	line:861
+dsect	C:\Users\Smit\Desktop\src_no_lcd\pff.h	90;"	m	line:90
+enable_audio::TRISC&=0b11111001	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	10;"	d	line:10
+fact_chunk::FCC('f','a','c','t')	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	25;"	d	line:25	file:
+fatbase	C:\Users\Smit\Desktop\src_no_lcd\pff.h	83;"	m	line:83
+fattrib	C:\Users\Smit\Desktop\src_no_lcd\pff.h	113;"	m	line:113
+fdate	C:\Users\Smit\Desktop\src_no_lcd\pff.h	111;"	m	line:111
+flag	C:\Users\Smit\Desktop\src_no_lcd\pff.h	78;"	m	line:78
+fmt	C:\Users\Smit\Desktop\src_no_lcd\pff.c	741;"	l	line:741
+fmt_chunk::FCC('f','m','t','')	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	22;"	d	line:22	file:
+fn	C:\Users\Smit\Desktop\src_no_lcd\pff.h	99;"	m	line:99
+fname	C:\Users\Smit\Desktop\src_no_lcd\pff.h	114;"	m	line:114
+follow_path	C:\Users\Smit\Desktop\src_no_lcd\pff.c	659;"	f	line:659	file:	signature:( DIR *dj, BYTE *dir, const char *path )
+fptr	C:\Users\Smit\Desktop\src_no_lcd\pff.h	86;"	m	line:86
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1046;"	l	line:1046
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1084;"	l	line:1084
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	360;"	l	line:360
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	405;"	l	line:405
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	426;"	l	line:426
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	455;"	l	line:455
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	826;"	l	line:826
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	866;"	l	line:866
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	924;"	l	line:924
+fs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	990;"	l	line:990
+fs_type	C:\Users\Smit\Desktop\src_no_lcd\pff.h	77;"	m	line:77
+fsize	C:\Users\Smit\Desktop\src_no_lcd\pff.c	742;"	l	line:742
+fsize	C:\Users\Smit\Desktop\src_no_lcd\pff.h	110;"	m	line:110
+fsize	C:\Users\Smit\Desktop\src_no_lcd\pff.h	87;"	m	line:87
+ftime	C:\Users\Smit\Desktop\src_no_lcd\pff.h	112;"	m	line:112
+get_fat	C:\Users\Smit\Desktop\src_no_lcd\pff.c	354;"	f	line:354	file:	signature:( CLUST clst )
+get_fileinfo	C:\Users\Smit\Desktop\src_no_lcd\pff.c	617;"	f	line:617	file:	signature:( DIR *dj, BYTE *dir, FILINFO *fno )
+i	C:\Users\Smit\Desktop\src_no_lcd\main.c	109;"	l	line:109
+i	C:\Users\Smit\Desktop\src_no_lcd\pff.c	454;"	l	line:454
+i	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+i	C:\Users\Smit\Desktop\src_no_lcd\pff.c	623;"	l	line:623
+i	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	87;"	l	line:87
+ifptr	C:\Users\Smit\Desktop\src_no_lcd\pff.c	989;"	l	line:989
+index	C:\Users\Smit\Desktop\src_no_lcd\pff.h	98;"	m	line:98
+init_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.c	9;"	f	line:9	signature:(void)
+init_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	20;"	p	line:20	signature:(void)
+isr	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	76;"	f	line:76	signature:(void)
+load_header	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	37;"	f	line:37	file:	signature:(void)
+main	C:\Users\Smit\Desktop\src_no_lcd\main.c	38;"	f	line:38	signature:(void)
+mclst	C:\Users\Smit\Desktop\src_no_lcd\pff.c	742;"	l	line:742
+mem_cmp	C:\Users\Smit\Desktop\src_no_lcd\pff.c	340;"	f	line:340	file:	signature:(const void* dst, const void* src, int cnt)
+mem_set	C:\Users\Smit\Desktop\src_no_lcd\pff.c	333;"	f	line:333	file:	signature:(void* dst, int val, int cnt)
+msg	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	52;"	l	line:52
+n	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	146;"	l	line:146
+n	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	71;"	l	line:71
+n_fatent	C:\Users\Smit\Desktop\src_no_lcd\pff.h	82;"	m	line:82
+n_rootdir	C:\Users\Smit\Desktop\src_no_lcd\pff.h	81;"	m	line:81
+ni	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+ocr	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	146;"	l	line:146
+ofs	C:\Users\Smit\Desktop\src_no_lcd\pff.c	358;"	l	line:358
+org_clust	C:\Users\Smit\Desktop\src_no_lcd\pff.h	88;"	m	line:88
+p	C:\Users\Smit\Desktop\src_no_lcd\pff.c	574;"	l	line:574
+p	C:\Users\Smit\Desktop\src_no_lcd\pff.c	624;"	l	line:624
+p	C:\Users\Smit\Desktop\src_no_lcd\pff.c	921;"	l	line:921
+pWAVIN	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	23;"	v	line:23
+pWAVOUT	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	23;"	v	line:23
+pad1	C:\Users\Smit\Desktop\src_no_lcd\pff.h	80;"	m	line:80
+pf_lseek	C:\Users\Smit\Desktop\src_no_lcd\pff.c	984;"	f	line:984	signature:( DWORD ofs )
+pf_lseek	C:\Users\Smit\Desktop\src_no_lcd\pff.h	141;"	p	line:141	signature:(DWORD)
+pf_mount	C:\Users\Smit\Desktop\src_no_lcd\pff.c	737;"	f	line:737	signature:( FATFS *fs )
+pf_mount	C:\Users\Smit\Desktop\src_no_lcd\pff.h	137;"	p	line:137	signature:(FATFS*)
+pf_open	C:\Users\Smit\Desktop\src_no_lcd\pff.c	819;"	f	line:819	signature:( const char *path )
+pf_open	C:\Users\Smit\Desktop\src_no_lcd\pff.h	138;"	p	line:138	signature:(const char*)
+pf_opendir	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1039;"	f	line:1039	signature:( DIR *dj, const char *path )
+pf_opendir	C:\Users\Smit\Desktop\src_no_lcd\pff.h	142;"	p	line:142	signature:(DIR*, const char*)
+pf_read	C:\Users\Smit\Desktop\src_no_lcd\pff.c	855;"	f	line:855	signature:( void* buff, WORD btr, WORD* br )
+pf_read	C:\Users\Smit\Desktop\src_no_lcd\pff.h	139;"	p	line:139	signature:(void*, WORD, WORD*)
+pf_readdir	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1077;"	f	line:1077	signature:( DIR *dj, FILINFO *fno )
+pf_readdir	C:\Users\Smit\Desktop\src_no_lcd\pff.h	143;"	p	line:143	signature:(DIR*, FILINFO*)
+pf_write	C:\Users\Smit\Desktop\src_no_lcd\pff.c	913;"	f	line:913	signature:( const void* buff, WORD btw, WORD* bw )
+pf_write	C:\Users\Smit\Desktop\src_no_lcd\pff.h	140;"	p	line:140	signature:(const void*, WORD, WORD*)
+play_wave_file	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	85;"	f	line:85	signature:(const char *fn)
+play_wave_file	C:\Users\Smit\Desktop\src_no_lcd\wave_file.h	6;"	p	line:6	signature:(const char *fn)
+preload	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	128;"	l	line:128
+pwm_audio_init	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	103;"	f	line:103	signature:(void)
+pwm_audio_init	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	6;"	p	line:6	signature:(void)
+pwm_init	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	27;"	f	line:27	signature:(void)
+r	C:\Users\Smit\Desktop\src_no_lcd\pff.c	342;"	l	line:342
+rb	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	31;"	v	line:31
+rbuff	C:\Users\Smit\Desktop\src_no_lcd\pff.c	865;"	l	line:865
+rc	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	202;"	l	line:202
+rcnt	C:\Users\Smit\Desktop\src_no_lcd\pff.c	864;"	l	line:864
+rcv_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.c	41;"	f	line:41	signature:(void)
+rcv_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	22;"	p	line:22	signature:(void)
+release_spi	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	37;"	f	line:37	file:	signature:(void)
+remain	C:\Users\Smit\Desktop\src_no_lcd\pff.c	863;"	l	line:863
+remain	C:\Users\Smit\Desktop\src_no_lcd\pff.c	920;"	l	line:920
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1044;"	l	line:1044
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1082;"	l	line:1082
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	499;"	l	line:499
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	533;"	l	line:533
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	665;"	l	line:665
+res	C:\Users\Smit\Desktop\src_no_lcd\pff.c	823;"	l	line:823
+res	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	201;"	l	line:201
+res	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	251;"	l	line:251
+res	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	50;"	l	line:50
+res	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	71;"	l	line:71
+res	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	89;"	l	line:89
+s	C:\Users\Smit\Desktop\src_no_lcd\pff.c	341;"	l	line:341
+sayi	C:\Users\Smit\Desktop\src_no_lcd\main.c	40;"	l	line:40
+sclust	C:\Users\Smit\Desktop\src_no_lcd\pff.h	100;"	m	line:100
+sect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	863;"	l	line:863
+sect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	920;"	l	line:920
+sect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	989;"	l	line:989
+sect	C:\Users\Smit\Desktop\src_no_lcd\pff.h	102;"	m	line:102
+send_cmd	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	66;"	f	line:66	file:	signature:( BYTE cmd, DWORD arg )
+set_pwm1_duty	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	43;"	f	line:43	signature:(unsigned char duty1)
+set_pwm2_duty	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	50;"	f	line:50	signature:(unsigned char duty2)
+set_sampling_rate	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	126;"	f	line:126	signature:(unsigned long rate)
+set_sampling_rate	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	7;"	p	line:7	signature:(unsigned long rate)
+sfn	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+si	C:\Users\Smit\Desktop\src_no_lcd\pff.c	573;"	l	line:573
+sp	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1045;"	l	line:1045
+sp	C:\Users\Smit\Desktop\src_no_lcd\pff.c	1083;"	l	line:1083
+sp	C:\Users\Smit\Desktop\src_no_lcd\pff.c	825;"	l	line:825
+sw1::PORTAbits.RA0	C:\Users\Smit\Desktop\src_no_lcd\button.h	5;"	d	line:5
+sw1_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	7;"	l	line:7
+sw2::PORTBbits.RB3	C:\Users\Smit\Desktop\src_no_lcd\button.h	6;"	d	line:6
+sw2_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	25;"	l	line:25
+sw3::PORTAbits.RA1	C:\Users\Smit\Desktop\src_no_lcd\button.h	7;"	d	line:7
+sw3_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	43;"	l	line:43
+sw4::PORTBbits.RB2	C:\Users\Smit\Desktop\src_no_lcd\button.h	8;"	d	line:8
+sw4_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	61;"	l	line:61
+sw5::PORTAbits.RA2	C:\Users\Smit\Desktop\src_no_lcd\button.h	9;"	d	line:9
+sw5_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	79;"	l	line:79
+sw6::PORTAbits.RA3	C:\Users\Smit\Desktop\src_no_lcd\button.h	10;"	d	line:10
+sw6_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	97;"	l	line:97
+sw7::PORTAbits.RA4	C:\Users\Smit\Desktop\src_no_lcd\button.h	11;"	d	line:11
+sw7_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	115;"	l	line:115
+sw8::PORTAbits.RA5	C:\Users\Smit\Desktop\src_no_lcd\button.h	12;"	d	line:12
+sw8_state	C:\Users\Smit\Desktop\src_no_lcd\button.c	133;"	l	line:133
+sz	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	39;"	l	line:39
+sz	C:\Users\Smit\Desktop\src_no_lcd\wave_file.c	87;"	l	line:87
+temp	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.c	32;"	l	line:32
+timeout	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	51;"	l	line:51
+timer1_init	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	57;"	f	line:57	signature:(void)
+tmr	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	147;"	l	line:147
+tsect	C:\Users\Smit\Desktop\src_no_lcd\pff.c	742;"	l	line:742
+ty	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	146;"	l	line:146
+wait_ready	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	48;"	f	line:48	file:	signature:(void)
+wav_putc	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.c	135;"	f	line:135	signature:(unsigned char c)
+wav_putc	C:\Users\Smit\Desktop\src_no_lcd\pwm_audio.h	8;"	p	line:8	signature:(unsigned char c)
+wc	C:\Users\Smit\Desktop\src_no_lcd\pff.c	358;"	l	line:358
+wc	C:\Users\Smit\Desktop\src_no_lcd\sd_mmc.c	253;"	l	line:253	file:
+wcnt	C:\Users\Smit\Desktop\src_no_lcd\pff.c	923;"	l	line:923
+xmit_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.c	30;"	f	line:30	signature:(BYTE c)
+xmit_spi	C:\Users\Smit\Desktop\src_no_lcd\spi_pic18.h	21;"	p	line:21	signature:(BYTE)
